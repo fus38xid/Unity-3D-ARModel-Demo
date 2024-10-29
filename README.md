@@ -14,3 +14,8 @@ A basic AR demo using Unity that shows a 3D model when scanning a specific image
 
 ## License
 MPL-2.0
+
+##
+
+##### shameless self promo
+ https://www.linkedin.com/in/max-steiner24/
