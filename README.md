@@ -17,5 +17,5 @@ MPL-2.0
 
 ##
 
-##### shameless self promo
+##### contact me here :)
  https://www.linkedin.com/in/max-steiner24/
